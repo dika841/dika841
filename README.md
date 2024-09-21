@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student pursuing a degree in technology. I have experience in web programming, especially in front-end development using HTML, CSS and JavaScript. I also have skills in using frameworks like React and Vue. I'm very interested in doing an internship in front-end web development and i'm confident that I can add positive value to the company.
+Hello! I'm Randika, a passionate front-end developer with a keen interest in creating intuitive, responsive, and user-friendly web applications. My journey in web development started with a fascination for how the web works, which led me to dive deep into learning HTML, CSS, JavaScript, and TypeScript. With experience in React.js, Next.js, and Tailwind CSS, I focus on building seamless user experiences that bring designs to life. I'm constantly learning and improving my skills, and I enjoy tackling new challenges that push me to grow as a developer. While I'm still early in my career, I'm excited about every opportunity to contribute to impactful projects and collaborate with teams that value creativity, innovation, and code quality. When I'm not coding, you'll likely find me exploring new technologies, working on side projects, or learning about the latest trends in front-end development.
 
 
 ## 🌐 Socials:
