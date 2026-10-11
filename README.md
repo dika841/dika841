@@ -12,7 +12,23 @@
 
 ###
 
-<p align="left">🚀 Frontend Web Developer specializing in modern JavaScript ecosystems. Passionate about crafting pixel-perfect, high-performance web applications with:<br><br>➡️TypeScript for robust code architecture<br>➡️Next.js for scalable production-ready apps<br>➡️React.js for dynamic UIs<br>➡️Tailwind CSS for rapid, maintainable styling<br><br>I transform complex requirements into elegant solutions with 95%+ Lighthouse scores. Let's build the future of the web together!</p>
+Fullstack Developer passionate about building modern, scalable, and high-performance web applications.
+
+I work across the frontend and backend, turning complex requirements into clean, maintainable, and user-friendly solutions.
+
+🎨 Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+
+⚙️ Backend: Node.js, Hono, Express.js
+
+🗄️ Database: PostgreSQL, MongoDB
+
+🐳 DevOps & Tools: Docker, Git
+
+✨ Focus: Clean code, scalable architecture, responsive UI, and web performance
+
+I enjoy exploring modern technologies, solving technical challenges, and continuously improving my development skills to build better digital products.
+
+Let's build something great together!
 
 ###
 
@@ -43,6 +59,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
 </div>
 
 ###
